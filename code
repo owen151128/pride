@@ -1,0 +1,5 @@
+public static void test(String param, int param2) {
+	this.param=param;
+	this.param2=param2;
+	System.out.println("test : " + param + param2);
+}

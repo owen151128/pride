@@ -3,3 +3,7 @@ public static void test(String param, int param2) {
 	this.param2=param2;
 	System.out.println("test : " + param + param2);
 }
+
+public String test2(String test) {
+	return test;
+}

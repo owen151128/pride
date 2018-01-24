@@ -1,7 +1,6 @@
-public static void test(String param, int param2) {
+public static void test(String param) {
 	this.param=param;
-	this.param2=param2;
-	System.out.println("test : " + param + param2);
+	System.out.println("test : " + param);
 }
 
 public String test2(String test) {
